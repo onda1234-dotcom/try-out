@@ -1,0 +1,401 @@
+
+/* =============== PHOTO SECTION ===================== */
+
+.head{
+    display:flex;
+    justify-content:center;
+    padding:20%;
+    
+    
+}
+
+.round{
+    display:flex;
+    justify-content:center;
+    position:relative;
+    top:-5px;
+}
+
+
+.step{
+    display:flex;
+    justify-content:end;
+    padding-right:200px;
+   
+}
+
+
+.round1{
+    display:flex;
+    justify-content:center;
+    position:relative;
+    top:-70px;
+}
+
+
+.wide{
+    padding-left:200px;
+}
+
+.biro{
+    float:right;
+    padding-right:200px;
+}
+
+
+
+
+.round2{
+    display:flex;
+    justify-content:center;
+    position:relative;
+    top:100px;
+}
+
+
+.round3{
+    position:relative;
+    top:400px;
+    
+}
+
+.round4{
+    position:relative;
+    top:700px;
+}
+
+.round22{
+  
+    position:relative;
+    top:300px;
+    text-align: center;
+    padding-left:400px;
+
+}
+
+.round5{
+    position:relative;
+    top:1100px;
+}
+
+
+.round5:active{
+    scale: 0.95;
+}
+
+
+.round22:active{
+    scale: 0.95;
+}
+
+
+
+.round2:active{
+    scale: 0.95;
+}
+
+
+.round1:active{
+    scale: 0.95;
+}
+
+
+
+.round:active{
+    scale: 0.95;
+}
+
+.round3:active{
+    scale: 0.95;
+}
+
+.round4:active{
+    scale: 0.95;
+}
+
+
+
+/* =============== HEADING/PARAGRAPH SECTION ===================== */
+
+h1{
+    text-align:center;
+    font-size:400%;
+
+}
+
+
+h2{
+    position: relative;
+    top:250px;
+    text-align:center;
+    font-size:300%;
+
+}
+
+
+
+
+p{
+    position: relative;
+    top:-250px;
+    padding-left:400px;
+}
+
+
+.pen{
+    padding-left:400px;
+}
+
+.hen{
+  
+   padding-left:200px; 
+
+}
+
+
+p2{
+    color:red;
+    font-size:150%;
+    display:flex;
+    justify-content: center;
+}
+
+
+
+/* =============== SPAN SECTION ===================== */
+span{
+    color:red;
+    font-size:50px;
+    font-weight:bolder;
+}
+
+
+span1{
+    color:red;
+    font-size:50px;
+    font-weight:bolder;
+
+}
+
+
+
+span3{
+    position: relative;
+    top:-500px;
+    font-size:40px;
+    
+}
+
+span4{
+    position:relative;
+    top: 100px;
+    font-size:50%;
+
+} 
+
+span6{
+    padding-right:170px;
+    font-size:30px;
+    color:red;
+    font-weight:bolder;
+
+}
+
+
+
+
+
+
+/* =============== BELOW SECTION ===================== */
+
+.below{
+   
+    height:190px;
+    border-radius:10px;
+    background-color:peachpuff;
+    margin:200px;
+    position: relative;
+    top:300px;
+
+       
+}
+
+.FAQ{
+    position: relative;
+    top:150px;
+
+}
+
+@media(max-width:1000px){
+    .body{
+        display:none;
+    }
+    
+}
+
+@media(min-width:1000px){
+    .head2{
+        display:none;
+    }
+    }
+
+/* =============== PHONE SECTION ===================== */
+
+
+body{
+    display:flex;
+    justify-content:center;
+}
+
+.head2{
+    text-align:center;
+   
+}
+
+p3{
+    position: relative;
+    top:100px;
+    
+}
+
+p4{
+    position: relative;
+    top:200px;
+
+}
+
+p5{
+    position: relative;
+    top:500px;
+}
+
+
+.steping{
+    position: relative;
+    top:300px;
+}
+
+.wider{
+    position: relative;
+    top:600px;
+}
+
+
+p6{
+    position: relative;
+    top:800px;
+}
+
+.biro1{
+    position: relative;
+    top:900px;
+}
+
+
+.FAQ1{
+    position: relative;
+    top:900px;
+    font-size:10px;
+    font-weight:lighter;
+
+}
+
+.below1{
+    position: relative;
+    top:1200px;
+    margin:20px;
+    height:400px;
+    background-color:peachpuff;
+    border-radius:20px ;
+    width: 400px;
+}
+p7{
+    color:black;
+    position: relative;
+    top:50px;
+    display: flex;
+    justify-content: center;
+    font-size:20px;
+    
+}
+
+p21{
+    color:red;
+    position: relative;
+    top:30px;
+    display: flex;
+    justify-content: center;
+    font-size:30px;
+    
+}
+
+
+p8{
+    color:black;
+    position: relative;
+    top:100px;
+    display: block;
+    
+    font-size:25px;
+    
+}
+
+p22{
+    color:red;
+    font-size:25px;
+       
+}
+
+p10{
+   font-size:30px; 
+   position: relative;
+   top:200px;
+   
+}
+
+
+p11{
+    font-size:40px; 
+    position: relative;
+    top:200px;
+    font-weight:bold;
+    display:flex;
+    justify-content:center;
+ }
+
+ p12{
+    position: relative;
+    top:250px;
+    font-size:30px; 
+    display:flex;
+    justify-content:center;
+ }
+
+
+ p13{
+    position: relative;
+    top:250px;
+    font-size:17px; 
+    display:flex;
+    justify-content:center;
+ }
+
+ .wid{
+    position: relative;
+    top:1500px;
+ }
+
+ .widi{
+    position: relative;
+    top:300px;
+    display:flex;
+    justify-content:center;
+ }
+
+ .widi:active{
+    scale: 0.95;
+}
+
+.wid:active{
+    scale: 0.95;
+}
